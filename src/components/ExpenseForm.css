@@ -1,0 +1,24 @@
+.expense-form {
+  min-width:260px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+.expense-form input,
+.expense-form select {
+  padding:8px 10px;
+  border-radius:6px;
+  border:1px solid #e1e5ea;
+}
+.expense-form button {
+  padding:8px 10px;
+  background:#1976d2;
+  color:white;
+  border:none;
+  border-radius:6px;
+  cursor:pointer;
+}
+.expense-form button:disabled{
+  opacity:0.6;
+  cursor:not-allowed;
+}
