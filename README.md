@@ -26,7 +26,7 @@ DailyPay is a lightweight, modern web application designed to help individuals a
 ## Author
 **lucia684luca**  
 Email: lucia684luca@outlook.com  
-Website: DailyPay[https://www-dailypay.com]
+Website: DailyPay(https://www-dailypay.com)
 
 **Bio:**  
 Lucia is a passionate software developer and open-source contributor. With several years of experience building front-end applications, she has a strong foundation in JavaScript and React, and a master's level understanding of software engineering principles. Lucia focuses on clean, modular components and readable code. She enjoys mentoring new developers and actively helps contributors improve PRs with constructive feedback.
