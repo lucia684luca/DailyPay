@@ -1,0 +1,30 @@
+.expense-list {
+  margin-top:12px;
+}
+.expense-item {
+  display:flex;
+  justify-content:space-between;
+  gap:12px;
+  padding:8px;
+  border-bottom:1px solid #f0f0f0;
+  align-items:center;
+}
+.expense-left {
+  display:flex;
+  flex-direction:column;
+}
+.expense-amount {
+  font-weight:700;
+}
+.delete-btn {
+  background:transparent;
+  border:none;
+  color:#c62828;
+  cursor:pointer;
+  padding:6px 8px;
+  border-radius:6px;
+}
+.empty {
+  color:#999;
+  padding:12px;
+}
